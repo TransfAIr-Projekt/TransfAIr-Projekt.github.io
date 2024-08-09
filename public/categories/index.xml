@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Tatsat Banerjee | Personal Homepage</title>
+    <link>http://localhost:1313/transfair_web/categories/</link>
+    <description>Recent content in Categories on Tatsat Banerjee | Personal Homepage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 30 Jul 2016 21:41:13 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/transfair_web/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category1</title>
+      <link>http://localhost:1313/transfair_web/categories/category1/</link>
+      <pubDate>Sat, 30 Jul 2016 21:41:13 -0400</pubDate>
+      <guid>http://localhost:1313/transfair_web/categories/category1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category2</title>
+      <link>http://localhost:1313/transfair_web/categories/category2/</link>
+      <pubDate>Sat, 30 Jul 2016 21:41:13 -0400</pubDate>
+      <guid>http://localhost:1313/transfair_web/categories/category2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category3</title>
+      <link>http://localhost:1313/transfair_web/categories/category3/</link>
+      <pubDate>Mon, 20 Jul 2015 21:41:13 -0400</pubDate>
+      <guid>http://localhost:1313/transfair_web/categories/category3/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
