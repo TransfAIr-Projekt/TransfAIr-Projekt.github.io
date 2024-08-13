@@ -2,43 +2,43 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/transfair_web/posts/first-blog-post/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/posts/first-blog-post/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/categories/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/categories/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/categories/category1/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/categories/category1/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/categories/category2/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/categories/category2/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/posts/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/posts/</loc>
     <lastmod>2016-07-30T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/categories/category3/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/categories/category3/</loc>
     <lastmod>2015-07-20T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/tags/tag1/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/tags/tag1/</loc>
     <lastmod>2015-07-20T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/tags/tag2/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/tags/tag2/</loc>
     <lastmod>2015-07-20T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/tags/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/tags/</loc>
     <lastmod>2015-07-20T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/posts/second-blog-post/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/posts/second-blog-post/</loc>
     <lastmod>2015-07-20T21:41:13-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/contact/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/publication/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/publication/</loc>
   </url><url>
-    <loc>http://localhost:1313/transfair_web/research/</loc>
+    <loc>https://maku-vs.github.io/transfair_web/research/</loc>
   </url>
 </urlset>
