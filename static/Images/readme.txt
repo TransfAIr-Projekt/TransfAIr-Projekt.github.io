@@ -1,1 +1,0 @@
-replace Logo_1.png in \themes\TatBanTheme2.0\static\Images
