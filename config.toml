@@ -1,4 +1,4 @@
-baseURL = 'https://maku-vs.github.io/transfair_web/'
+baseURL = 'https://maku-vs.github.io/trans_code/'
 languageCode = 'en-us'
 title = 'TransfAIr: Transfer-Ansätze für Künstliche Intelligenz in der Industrie'
 theme = "TatBanTheme2.0"
